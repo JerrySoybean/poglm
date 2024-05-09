@@ -1,12 +1,12 @@
-# Forward $\chi^2$ Divergence Based Variational Importance Sampling [ICLR 2024 Spotlight]
+# A Differentiable Partially Observable Generalized Linear Model with Forward-Backward Message Passing [ICML 2024]
 
 <div align='center' >Chengrui Li, Yule Wang, Weihan Li, and Anqi Wu</div>
 
-[[paper]](https://openreview.net/pdf?id=HD5Y7M8Xdk) [[arXiv]](https://arxiv.org/abs/2311.02516) [[slides]](https://jerrysoybean.github.io/assets/pdf/VIS%20pre.pdf) [[video]](https://recorder-v3.slideslive.com/#/share?share=90867&s=74d1bcf6-2f97-43d0-b0a4-87ad795d5602) [[poster]](https://jerrysoybean.github.io/assets/pdf/VIS%20ICLR%202024%20poster.pdf) [[文章]](https://jerrysoybean.github.io/assets/pdf/VIS_ICLR_2024_%E4%B8%AD%E6%96%87.pdf)
+[[paper]](https://openreview.net/pdf?id=2FKzbEE24s) [[arXiv]](https://arxiv.org/abs/2402.01263) [[slides]]() [[video]]() [[poster]]() [[文章]]()
 
-![divergence3](/assets/divergence3.png)
+![variational_distributions](assets/variational_distributions.png)![different_distributions](assets/different_distributions.png)
 
-## 1 Tutorial
+<!-- ## 1 Tutorial
 [demo.ipynb](/demo.ipynb) is a step-by-step tutorial that run VI or VIS on a toy mixture model.
 
 ## 2 Paper's Results Reproduction
@@ -35,4 +35,4 @@ The learned model $p(x,z;\theta)$ and $q(z|x;\phi)$ are saved in `model`. The le
 
 Open the `visualization.ipynb`. This jupyter notebook plots Fig. 2 in our paper.
 
-![](assets/mixture.png)
+![](assets/mixture.png) -->

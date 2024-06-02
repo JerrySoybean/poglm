@@ -1,0 +1,10 @@
+setup.py
+poglm/__init__.py
+poglm/distributions.py
+poglm/inference.py
+poglm/model.py
+poglm/utils.py
+poglm.egg-info/PKG-INFO
+poglm.egg-info/SOURCES.txt
+poglm.egg-info/dependency_links.txt
+poglm.egg-info/top_level.txt

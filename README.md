@@ -2,7 +2,7 @@
 
 <div align='center' >Chengrui Li, Yule Wang, Weihan Li, and Anqi Wu</div>
 
-[[paper]](https://openreview.net/pdf?id=2FKzbEE24s) [[arXiv]](https://arxiv.org/abs/2402.01263) [[slides]]() [[video]]() [[poster]]() [[文章]](https://jerrysoybean.github.io/assets/pdf/softPOGLM_ICML_2024_%E4%B8%AD%E6%96%87.pdf)
+[[paper]](https://openreview.net/pdf?id=2FKzbEE24s) [[arXiv]](https://arxiv.org/abs/2402.01263) [[slides]]() [[video]]() [[poster]](https://jerrysoybean.github.io/assets/pdf/diffPOGLM%20ICML%202024%20poster.pdf) [[文章]](https://jerrysoybean.github.io/assets/pdf/softPOGLM_ICML_2024_%E4%B8%AD%E6%96%87.pdf)
 
 ![intro](assets/intro.png)
 
